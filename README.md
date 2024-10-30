@@ -9,3 +9,4 @@ This project is a mock travel website created for the Coursera "Javascript Essen
 
 check if react-router-dom and tailwind are installed in the project  
 
+public site: https://frolicking-palmier-c17db3.netlify.app/
